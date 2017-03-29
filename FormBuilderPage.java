@@ -1,5 +1,5 @@
 
-package com.numarasoftware.footprints.uitest.pages;
+package com.xxxsoftware.footprints.uitest.pages;
 
 import java.util.List;
 
